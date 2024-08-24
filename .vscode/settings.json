@@ -1,0 +1,16 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/opt/javafx-sdk-22.0.2/lib/javafx.base.jar",
+        "/opt/javafx-sdk-22.0.2/lib/javafx.controls.jar",
+        "/opt/javafx-sdk-22.0.2/lib/javafx.fxml.jar",
+        "/opt/javafx-sdk-22.0.2/lib/javafx.graphics.jar",
+        "/opt/javafx-sdk-22.0.2/lib/javafx.media.jar",
+        "/opt/javafx-sdk-22.0.2/lib/javafx.swing.jar",
+        "/opt/javafx-sdk-22.0.2/lib/javafx.web.jar",
+        "/opt/javafx-sdk-22.0.2/lib/javafx-swt.jar",
+        "/opt/javafx-sdk-22.0.2/lib/fontawesomefx-8.2.jar"
+    ]
+}
